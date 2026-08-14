@@ -1,4 +1,4 @@
-# SalesIQ — E-commerce Analytics Bot
+# SalesIQ — E-commerce Data Analytical Bot
 
 Ask analytical questions about e-commerce sales data in plain English and
 get real, computed answers — no dashboard, no pre-built charts, no SQL
