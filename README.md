@@ -88,7 +88,7 @@ requirements.txt
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/perry1291/Ecommerce-Data-Analytical-Bot.git
 cd salesiq
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
